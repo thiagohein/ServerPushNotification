@@ -1,0 +1,4 @@
+1 - https://www.luiztools.com.br/post/como-rodar-nodejs-em-servidor-windows/
+2 - npx tsc
+3 - node services.js
+SC DELETE servicename
